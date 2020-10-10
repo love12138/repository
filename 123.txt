@@ -1,1 +1,7 @@
-122343433
+执行指令添加文件->提交文件->推送文件
+
+git add . 添加文件到本地仓库
+
+git commit -m "提交test1.html"  提交文件
+
+git push -u origin master  传到git仓库
