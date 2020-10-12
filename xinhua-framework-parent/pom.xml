@@ -5,6 +5,7 @@
     <modules>
         <module>xinhua-microservice-edu</module>
         <module>xinhau-framework-common</module>
+        <module>service-statistics</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
