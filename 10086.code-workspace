@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\项目资料\\在线教育学习\\new node\\vue-element-admin-master\\src\\components\\PanThumb"
+		},
+		{
+			"path": "..\\项目资料\\在线教育学习\\new node\\vue-element-admin-master\\src\\components\\ImageCropper"
 		}
 	],
 	"settings": {}
