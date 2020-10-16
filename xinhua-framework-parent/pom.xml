@@ -5,9 +5,6 @@
     <modules>
         <module>xinhua-microservice-edu</module>
         <module>xinhau-framework-common</module>
-        <module>service-statistics</module>
-        <module>xinhua-service-ucenter</module>
-        <module>service-ucenter</module>
         <module>xinhua-service-ucencer</module>
         <module>xinhua-service-statistics</module>
         <module>xinhua-service-oss</module>
