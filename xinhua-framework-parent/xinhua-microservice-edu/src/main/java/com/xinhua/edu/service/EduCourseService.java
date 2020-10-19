@@ -14,5 +14,5 @@ import com.xinhua.edu.entity.vo.CourseInfoVo;
  */
 public interface EduCourseService extends IService<EduCourse> {
 
-    void addSource(CourseInfoVo courseInfoVo);
+    String addSource(CourseInfoVo courseInfoVo);
 }

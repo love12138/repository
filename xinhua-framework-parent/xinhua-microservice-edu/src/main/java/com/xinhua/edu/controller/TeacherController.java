@@ -31,7 +31,7 @@ public class TeacherController {
     * @Author:yws
     * @creatDate:2020/10/5
     */
-    @GetMapping
+    @GetMapping("getAllTeacher")
     public R list(){
         List<Teacher> list = teacherService.list(null);
         return R.ok().data("items",list);
